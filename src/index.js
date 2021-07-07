@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap"
 import {Thermometer, Sun, ArrowRight, Clock} from "react-bootstrap-icons"
-import { Button, Image, Form, InputGroup, FormGroup, FormText, FormLabel, FormControl, FormCheck,  ModalBody,  ModalFooter,  Badge, Container, Row, Col} from "react-bootstrap";
+import { Button, Image, Form, Badge, Container, Row, Col} from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 
 import "./index.css";
